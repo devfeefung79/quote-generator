@@ -2,7 +2,7 @@
 This is a simple static website using HTML, CSS and JavaScript
 
 ## Get Started
-Visit <a href="https://devfeefung79.github.io/quote-generator/" target="_blank">https://devfeefung79.github.io/quote-generator/</a> for a live demo
+Visit https://devfeefung79.github.io/quote-generator/ for a live demo
 
 
 ## Functions
